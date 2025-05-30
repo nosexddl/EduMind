@@ -1,2 +1,1 @@
-# EduMind
-proyecto de ciencia
+YOU README NOW LOL

@@ -1,0 +1,2 @@
+# EduMind
+proyecto de ciencia
